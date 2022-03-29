@@ -13,4 +13,4 @@ left:       A
 right:      D
 up:         W
 down:       S
-pause game: esc
+pause game: esc.
